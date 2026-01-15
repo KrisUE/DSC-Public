@@ -258,3 +258,47 @@ Instead of guessing colors every time, DSC allows you to:
 
 DSC doesn’t apply a filter — it forces images to obey your color rules.
 
+---
+
+## macOS Gatekeeper & Beta Notes
+
+Designer’s Side Chick (DSC) is currently in **active beta**.
+
+During beta, DSC is distributed directly so updates and improvements can ship quickly. Because of this, macOS may show a security message the **first time** you open the app. This is normal behavior for beta software on macOS.
+
+### First launch (one-time step)
+If macOS blocks the app on first launch:
+
+1. Open **System Settings**
+2. Go to **Privacy & Security**
+3. Scroll down to **Security**
+4. You’ll see a message that DSC was blocked
+5. Click **Open Anyway**
+6. Confirm when prompted
+
+After this one-time approval, DSC will open normally.
+
+### Why this happens
+macOS applies extra checks to apps that are still in beta or distributed outside the App Store. DSC does not install background services, system extensions, or hidden processes.
+
+This beta approach allows:
+- Faster updates
+- Direct user feedback
+- Rapid iteration on experimental tools
+
+
+---
+###  Beta Tester Access (PS)
+
+**PS:**  
+If you’d like to help test **Designer’s Side Chick (DSC)**, feel free to message me on **Instagram**.
+
+I’m sharing beta access with people who genuinely work with design, print, color, or fabrication workflows and are interested in giving real feedback. To keep things smooth and useful for everyone:
+
+- Beta keys are shared with real, active accounts  
+- Profiles with some history or creative/work-related context are preferred  
+- This helps make sure DSC is tested by people who will actually use it  
+
+If that sounds like you, I’d love to hear what you’re working on and how you’d like to use DSC.
+
+Thanks for helping shape the project 
